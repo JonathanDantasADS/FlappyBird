@@ -42,7 +42,7 @@
 .barreira .corpo{
     height: 150px;
     width: 110px;
-    background: linear-gradient(90deg, #76af02, #9bf303);
+    background: linear-gradient(90deg, #4c6c0b, #98d42f);
     border-left: 2px solid black;
     border-right: 2px solid black;
 
@@ -51,7 +51,7 @@
 .barreira .borda {
     height: 30px;
     width: 130px;
-    background: linear-gradient(90deg, #639301, #a5e82e);
+    background: linear-gradient(90deg, #4c6c0b, #98d42f);
     border: 2px solid black;
 }
 
