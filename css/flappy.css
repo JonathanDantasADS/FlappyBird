@@ -60,5 +60,6 @@
     right: 10px;
     font-family: Pixel;
     font-size: 60px;
-    color: white;
+    color: rgb(2, 249, 31);
+    z-index: 100;
 }
